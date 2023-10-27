@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="ht_image" name="ht_ros_yolo_ship_right" type="ht_yolo_ship.py" output="screen">
+</node>
+</launch>

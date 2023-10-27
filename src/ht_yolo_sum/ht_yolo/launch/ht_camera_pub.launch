@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="ht_image" name="ht_pub_img_right" type="ht_pub_img.py" output="screen">
+</node>
+</launch>
